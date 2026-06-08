@@ -31,7 +31,7 @@ A full-stack task management web application consisting of a modular Express.js 
    ```env
    PORT=5000
    MONGODB_URI=mongodb://localhost:27017/primetrade
-   JWT_SECRET=supersecretjwtkey12345!@#$%
+   JWT_SECRET=supersecret
    JWT_EXPIRE=24h
    NODE_ENV=development
    ```
